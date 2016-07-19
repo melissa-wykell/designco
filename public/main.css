@@ -1,0 +1,16 @@
+h1 {
+
+  text-align: center;
+  color: #black;
+  font-size: 3em;
+}
+li {
+    display: inline;
+}
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  color: black;
+}
+h4 {
+  text-align: center;
+}
